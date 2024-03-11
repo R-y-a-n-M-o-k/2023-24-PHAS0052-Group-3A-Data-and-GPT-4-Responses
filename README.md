@@ -1,4 +1,4 @@
-# PHAS0052-Group-3A-GPT-4-Prompt-Responses-
+# 2023/24 PHAS0052 Group-3A Project Data and GPT-4 Responses
 
 This repository is built for 2023/24 Group 3A in the UCL PHAS0052 Physics Group Project. The project is on quantiative assessment of AI grading and performance in Physics education. We have constructed a method to evaluate how well a LLM model is at grading physics solutions. We test this methodology on OpenAI's GPT-4 LLM (between 15/02/2024 and 10/03/2024). In the repository you will find:
 
