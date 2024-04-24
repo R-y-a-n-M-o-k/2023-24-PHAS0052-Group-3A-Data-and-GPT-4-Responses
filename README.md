@@ -10,4 +10,6 @@ This repository is built for 2023/24 Group 3A in the UCL PHAS0052 Physics Group 
 
 4. GPT-4 Grading. This is the responses and feedback produced when GPT-4 grades the generated solutions. This includes grading where GPT-4 is not given the markscheme only the marks allocated to each question and grading where the markscheme is given to GPT-4 in the prompt.
 
-5. Question Figures. Included are also the original figures created in use for the question dataset. These can be input into GPT-4 prompts and are used to generate the question dataset pdf file. 
+5. Question Figures. Included are also the original figures created in use for the question dataset. These can be input into GPT-4 prompts and are used to generate the question dataset pdf file.
+
+6. Grading done by humans for each GPT-4 solution.
